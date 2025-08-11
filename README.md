@@ -1,4 +1,4 @@
-# ESP32_Game_Collection
+# ESP32_Games
 A set of interactive games built with the **ESP32** and **OLED SSD1306** display:
 
 - [Tic Tac Toe](https://github.com/Krishpatel5757/ESP32_TicTacToe_OLED)
